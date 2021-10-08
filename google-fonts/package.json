@@ -1,0 +1,13 @@
+{
+    "name": "@reflect-ui/google-fonts",
+    "version": "0.0.0",
+    "devDependencies": {},
+    "files": [
+        "README.md",
+        "LICENSE",
+        "dist/index.js",
+        "dist/index.d.ts",
+        "dist/**/*.js",
+        "dist/**/*.d.ts"
+    ]
+}
